@@ -15,8 +15,14 @@ Explore a collection of projects that demonstrate my expertise in data analysis,
 - This project focuses on analyzing Tesla's historical stock market data using Python, Pandas, and Matplotlib. The dataset provides insights into Tesla's stock prices, trading volumes, and 
   overall market trends over time. The analysis was performed step-by-step to ensure clarity and reproducibility, making this project ideal for beginners and enthusiasts looking to explore 
   stock market data.
-  
 
+### 2. Mobile App Usage Analysis 📱:
+
+- This project focuses on analyzing mobile app usage patterns using Python, Pandas, Matplotlib, and Seaborn. The dataset provides detailed insights into app screen time, notifications 
+  received, and app openings over a specific time frame. The analysis was conducted step-by-step to ensure clarity and reproducibility, making it an excellent resource for beginners and data 
+  enthusiasts exploring user behavior data.
+
+  
 ## How to Use:
 - 🖥️ **Explore**: Dive into Jupyter notebooks or Python scripts within the repository to interact with the data and see the analysis in action.
 - 📑 **Review Data**: Download the datasets from the `data/` directory to see how raw data is cleaned and transformed.
