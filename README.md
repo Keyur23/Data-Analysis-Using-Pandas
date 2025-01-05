@@ -10,8 +10,11 @@ Explore a collection of projects that demonstrate my expertise in data analysis,
 - ⚙️ **Data Analysis**: Learn how to perform detailed analysis using Pandas to derive meaningful conclusions from complex datasets.
 
 ## Project Highlights:
-### 1. **Coming Soon....**:
-- Stay Tuned
+### 1. Tesla Stock Data Analysis 📊:
+
+- This project focuses on analyzing Tesla's historical stock market data using Python, Pandas, and Matplotlib. The dataset provides insights into Tesla's stock prices, trading volumes, and 
+  overall market trends over time. The analysis was performed step-by-step to ensure clarity and reproducibility, making this project ideal for beginners and enthusiasts looking to explore 
+  stock market data.
   
 
 ## How to Use:
