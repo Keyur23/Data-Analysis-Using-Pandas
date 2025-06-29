@@ -6,8 +6,8 @@ Here I Imagine Myself as a financial data consultant, and an investor has tasked
 
 The investor has asked me to provide them with the following data:
 
-# - Companies in the hardware industry based in either Beijing, San Francisco, or London
-# - Companies in the artificial intelligence industry based in London
-# - A list of the top 20 countries sorted by sum of company valuations in each country, excluding United States, China, India, and United Kingdom
-# - A global valuation map of all countries except United States, China, India, and United Kingdom (a separate map for Europe is also required)
+#### - Companies in the hardware industry based in either Beijing, San Francisco, or London
+#### - Companies in the artificial intelligence industry based in London
+#### - A list of the top 20 countries sorted by sum of company valuations in each country, excluding United States, China, India, and United Kingdom
+#### - A global valuation map of all countries except United States, China, India, and United Kingdom (a separate map for Europe is also required)
 
